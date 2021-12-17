@@ -4,4 +4,22 @@ body {
     font-size: 21px; 
     font-family: sans-serif; 
     
+} 
+
+p{
+    color:cadetblue
 }
+
+h1{
+    font-size: 70px; 
+
+}
+
+#head {color: green;}
+          tbody {color: blue;}
+          #namn {color: red;}
+          #tele {color: #A43B97;}
+          
+          table, th, td {
+            border: 1px solid black;
+          }
