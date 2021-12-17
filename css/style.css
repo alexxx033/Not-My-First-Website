@@ -22,4 +22,15 @@ h1{
           
           table, th, td {
             border: 1px solid black;
-          }
+          } 
+
+div {
+
+background-color:#A43B97 ;
+width: 500px;
+color: #2f52b3; 
+} 
+
+#divtext {
+    color:#000
+}
